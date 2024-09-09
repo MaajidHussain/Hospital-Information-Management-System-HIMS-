@@ -1,4 +1,4 @@
-# Hospital-Information-Management-System-HIMS
+# Introduction to MySQL
 
 WHY this project is Useful?
   To gain knowledge on SQL Queries.
